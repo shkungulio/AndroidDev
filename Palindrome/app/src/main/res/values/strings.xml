@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Palindrome</string>
+    <string name="palindrome_app">Palindrome App</string>
+    <string name="please_enter_input_below">Please enter input below</string>
+    <string name="clear">Clear</string>
+    <string name="check">Check</string>
+    <string name="logo">logo</string>
+    <string name="quit">Quit</string>
+</resources>

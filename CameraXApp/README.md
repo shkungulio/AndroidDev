@@ -1,7 +1,7 @@
 # CameraX App
 A  camera app that uses CameraX to show a viewfinder, take photos, capture video, and analyze an image stream from the camera.
 
-In the app:
+The app:
 
 Displays a camera viewfinder by using the Preview use case.
 

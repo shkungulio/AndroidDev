@@ -39,7 +39,6 @@ class MainActivity : AppCompatActivity(),TextToSpeech.OnInitListener {
         } else {
             Log.e("TTS", "Initilization Failed!")
         }
-
     }
 
     private fun speakOut() {
@@ -54,5 +53,4 @@ class MainActivity : AppCompatActivity(),TextToSpeech.OnInitListener {
         }
         super.onDestroy()
     }
-
 }
